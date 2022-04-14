@@ -1,0 +1,33 @@
+.ins-header {
+  display: flex;
+  justify-content: center;
+}
+
+.ins-container {
+  width: 100%;
+  max-width: 975px;
+  height: 54px;
+  max-height: 54px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  align-items: center;
+  display: flex;
+  padding: 13px 0;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  min-width: 40%;
+}
+
+.logo-container img {
+  height: 100%;
+  margin-top: 7px;
+}
+
+.navigator {
+  justify-content: flex-end;
+  flex: 1;
+}

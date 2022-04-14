@@ -1,0 +1,15 @@
+.ins-post {
+  margin-bottom: 60px;
+}
+
+.ins-post .profile-navigation-link {
+  color: black;
+}
+
+.ins-post img {
+  width: 100%;
+}
+
+.MuiCardContent-root.comments-section {
+  padding-top: 0;
+}

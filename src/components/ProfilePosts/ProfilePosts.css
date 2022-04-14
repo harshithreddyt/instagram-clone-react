@@ -1,0 +1,16 @@
+.profile-posts {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.profile-posts .ins-post {
+  display: flex;
+  width: 24%;
+  margin: 10px;
+}
+
+.profile-posts .profile-navigation-link {
+  display: none;
+}
